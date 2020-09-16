@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_expense_tracker/static/css/main.38c0b3a1.chunk.css",
+    "main.js": "/react_expense_tracker/static/js/main.b644b49e.chunk.js",
+    "main.js.map": "/react_expense_tracker/static/js/main.b644b49e.chunk.js.map",
+    "runtime-main.js": "/react_expense_tracker/static/js/runtime-main.e3164754.js",
+    "runtime-main.js.map": "/react_expense_tracker/static/js/runtime-main.e3164754.js.map",
+    "static/js/2.4eefddfb.chunk.js": "/react_expense_tracker/static/js/2.4eefddfb.chunk.js",
+    "static/js/2.4eefddfb.chunk.js.map": "/react_expense_tracker/static/js/2.4eefddfb.chunk.js.map",
+    "index.html": "/react_expense_tracker/index.html",
+    "precache-manifest.21745301ea3d2f8069d969254fd42b15.js": "/react_expense_tracker/precache-manifest.21745301ea3d2f8069d969254fd42b15.js",
+    "service-worker.js": "/react_expense_tracker/service-worker.js",
+    "static/css/main.38c0b3a1.chunk.css.map": "/react_expense_tracker/static/css/main.38c0b3a1.chunk.css.map",
+    "static/js/2.4eefddfb.chunk.js.LICENSE.txt": "/react_expense_tracker/static/js/2.4eefddfb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3164754.js",
+    "static/js/2.4eefddfb.chunk.js",
+    "static/css/main.38c0b3a1.chunk.css",
+    "static/js/main.b644b49e.chunk.js"
+  ]
+}
